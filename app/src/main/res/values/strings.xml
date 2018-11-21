@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ExamenPMDM</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment_botonera_titol">Fragment Botonera</string>
+    <string name="fragment_email_titol">Fragment E-Mail</string>
+    <string name="configuracion">Settings</string>
+    <string name="pref_backgroung_color">Color</string>
+    <string name="pref_nom_usuario">Usuario:</string>
+    <string name="pref_sum_usuario">Inserta tu nombre de usuario.</string>
+</resources>
